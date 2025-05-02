@@ -32,4 +32,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/henrique-alves-5237862ab/)
 - [Instagram](https://www.instagram.com/alveshenriique/)
-- Email: youremail@example.com
+- Email: henrique.a.campos@ufv.br
