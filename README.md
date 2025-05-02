@@ -24,17 +24,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/alveshenriique/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" alt="Instagram" />
   </a>
 </p>
 
 - 📧 Email: henrique.a.campos@ufv.br
-
----
 
 ### 🐍 Snake Contribution Animation
 
