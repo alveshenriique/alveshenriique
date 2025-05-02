@@ -27,10 +27,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/alveshenriique/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
   </a>
   <a href="mailto:henrique.a.campos@ufv.br">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Gmail_icon.png" height="40" alt="Email"/>
   </a>
 </p>
 
