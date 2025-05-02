@@ -29,9 +29,9 @@
   <a href="https://www.instagram.com/alveshenriique/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
   </a>
-<a href="mailto:henrique.a.campos@ufv.br">
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="40" alt="Email"/>
-</a>
+  <a href="mailto:henrique.a.campos@ufv.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Email"/>
+  </a>
 </p>
 
 
