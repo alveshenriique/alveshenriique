@@ -30,7 +30,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
   </a>
   <a href="mailto:henrique.a.campos@ufv.br">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Gmail_icon.png" height="40" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013-2020%29.png" height="40" alt="Email"/>
   </a>
 </p>
 
