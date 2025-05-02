@@ -1,8 +1,8 @@
-### 📊 Most Used Languages
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveshenriique&layout=compact&theme=radical" alt="Top languages" />
-</p>
+- 🎓 Undergraduate in Computer Science  
+- 🧪 Web Developer at the **UFV Virtual Labs** project  
+- 🧠 Interested in Metaheuristics, Linux, Operating Systems, and Data Visualization  
 
 ### 🛠️ Technologies and Tools
 
