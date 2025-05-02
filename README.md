@@ -2,7 +2,8 @@
 
 - 🎓 Undergraduate in Computer Science  
 - 🧪 Web Developer at the **UFV Virtual Labs** project  
-- 🧠 Interested in Metaheuristics, Linux, Operating Systems, and Data Visualization  
+- 💻 Passionate about Software Engineering and Software Development
+- 🧠 Always looking to improve and create high-quality solutions
 
 ### 🛠️ Technologies and Tools
 
