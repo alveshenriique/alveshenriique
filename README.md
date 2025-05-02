@@ -34,4 +34,4 @@
 - [Instagram](https://www.instagram.com/alveshenriique/)
 - Email: henrique.a.campos@ufv.br
 
-![snake gif](https://github.com/alveshenriique/alveshenriique/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
