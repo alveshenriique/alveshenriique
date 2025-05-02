@@ -1,9 +1,3 @@
-<h1 align="center">
-  💻 Computer Science Student
-</h1>
-
----
-
 ### 👨‍💻 About Me
 
 - 🎓 Undergraduate in Computer Science  
