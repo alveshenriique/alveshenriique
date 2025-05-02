@@ -33,3 +33,5 @@
 - [LinkedIn](https://www.linkedin.com/in/henrique-alves-5237862ab/)
 - [Instagram](https://www.instagram.com/alveshenriique/)
 - Email: henrique.a.campos@ufv.br
+
+![snake gif](https://github.com/alveshenriique/alveshenriique/blob/output/github-contribution-grid-snake.svg)
