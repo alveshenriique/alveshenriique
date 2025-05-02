@@ -1,8 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Henrique Alves</h1>
-
-<p align="center">
+<h1 align="center">
   💻 Computer Science Student
-</p>
+</h1>
 
 ---
 
@@ -16,22 +14,36 @@
 
 ### 🛠️ Technologies and Tools
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
 
 ---
 
 ### 📫 Where to find me
 
-- [LinkedIn](https://www.linkedin.com/in/henrique-alves-5237862ab/)
-- [Instagram](https://www.instagram.com/alveshenriique/)
-- Email: henrique.a.campos@ufv.br
+<p>
+  <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/alveshenriique/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram"/>
+  </a>
+</p>
+
+- 📧 Email: henrique.a.campos@ufv.br
+
+---
+
+### 🐍 Snake Contribution Animation
 
 <img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
