@@ -1,9 +1,9 @@
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate in Computer Science  
-- 🧪 Web Developer at the **UFV Virtual Labs** project  
-- 💻 Passionate about Software Engineering and Software Development
-- 🧠 Always looking to improve and create high-quality solutions
+🎓 Undergraduate in Computer Science  
+🧪 Web Developer at the **UFV Virtual Labs** project  
+💻 Passionate about Software Engineering and Software Development
+🧠 Always looking to improve and create high-quality solutions
 
 ### 🛠️ Technologies and Tools
 
