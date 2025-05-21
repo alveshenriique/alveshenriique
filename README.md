@@ -35,7 +35,4 @@
   </a>
 </p>
 
-
-### 🐍 Snake Contribution Animation
-
 <img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
