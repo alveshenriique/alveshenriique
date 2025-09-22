@@ -3,7 +3,7 @@
 🎓 Undergraduate in Computer Science  
 🧪 Web Developer at the **UFV Virtual Labs** project  
 🎮 Game Developer with Unity at the **UFV Virtual Labs** project  
-💻 Passionate about Software Engineering and Software Development   
+💻 Passionate about Software Engineering and Software Development  
 🧠 Always looking to improve and create high-quality solutions  
 
 ### 🛠️ Technologies and Tools
