@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-🚀 Creator of **[Lawfy](https://lawfy.app.br)** — SaaS platform for law firms, live in production  
+🚀 Creator of **[Lawfy](https://lawfy.app.br)** - SaaS platform for law firms, live in production  
 🧪 Web Developer at the **UFV Virtual Labs** project  
 🎮 Game Developer with Unity at the **UFV Virtual Labs** project  
 🎓 Undergraduate in Computer Science  
