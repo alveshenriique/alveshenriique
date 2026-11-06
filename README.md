@@ -55,7 +55,7 @@ Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="36" alt="dbt"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" height="36" alt="dbt"/>
   <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="36" alt="BigQuery"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36" alt="Jupyter"/>
