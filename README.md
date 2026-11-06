@@ -94,14 +94,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/>
 </p>
-
-### 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Estatísticas"/>
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Linguagens com mais commits"/>
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repositórios por linguagem"/>
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" alt="Horário mais produtivo"/>
-</p>
