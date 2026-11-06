@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Alves</h1>
 
 <p align="center"><b>Desenvolvedor Full Stack</b> · Node.js · TypeScript · React · PostgreSQL</p>
-<p align="center">Ciência da Computação (UFV) · Pará de Minas, MG</p>
+<p align="center">Ciência da Computação @UFV · Pará de Minas, MG</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
