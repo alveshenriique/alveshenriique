@@ -1,48 +1,107 @@
-### 👨‍💻 About Me
+<h1 align="center">Henrique Alves</h1>
+<h3 align="center">Full Stack Developer · Node.js · TypeScript · React · PostgreSQL</h3>
 
-🚀 Creator of **[Lawfy](https://lawfy.app.br)** - SaaS platform for law firms, live in production  
-🧪 Web Developer at the **UFV Virtual Labs** project  
-🎮 Game Developer with Unity at the **UFV Virtual Labs** project  
-🎓 Undergraduate in Computer Science  
-🧠 Always looking to improve and create high-quality solutions
+<p align="center">
+  Ciência da Computação @ UFV · Pará de Minas, MG, Brasil
+</p>
 
-### 🛠️ Technologies and Tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:henrique.a.campos@ufv.br">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://lawfy.app.br" target="_blank">
+    <img src="https://img.shields.io/badge/Lawfy-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lawfy"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+🚀 Criador do **[Lawfy](https://lawfy.app.br)**, SaaS de gestão para escritórios de advocacia, em produção com clientes reais  
+🧪 Ex-bolsista de iniciação científica no **UFV Virtual Labs**: desenvolvimento web (React, TypeScript, NestJS) e jogos com Unity  
+🛠️ Estagiário de TI no Grupo Agro: suporte a ERP, SQL e automação de processos com n8n  
+📄 Artigo de NLP [publicado e apresentado no **WebMedia 2026**](https://sol.sbc.org.br/index.php/webmedia/article/view/46080)  
+🎓 Ciência da Computação na UFV, formatura em dezembro de 2026  
+📊 Estudando engenharia de dados com um [pipeline próprio](https://github.com/alveshenriique/agro-observatory) (dbt, PostgreSQL, BigQuery)
+
+### 📦 Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Lawfy](https://lawfy.app.br)** | SaaS de gestão para escritórios de advocacia, em produção. Autenticação JWT, permissões granulares, RLS no banco e integração OAuth 2.0 com Google Calendar | Node.js, Express, TypeScript, React, PostgreSQL, Supabase, Railway, Vercel |
+| **[agro-observatory](https://github.com/alveshenriique/agro-observatory)** | Pipeline de dados sobre a produção agrícola brasileira: ingestão de APIs públicas, modelagem dimensional e CI | Python, PostgreSQL, dbt, GitHub Actions |
+| **[Estudo NLP multiplataforma](https://sol.sbc.org.br/index.php/webmedia/article/view/46080)** | Artigo no WebMedia 2026: análise de cerca de 33 mil comentários de YouTube, TikTok e Instagram, com análise de sentimento em português e modelagem de tópicos | Python, BERTopic, pysentimiento |
+
+### 🛠️ Tecnologias e ferramentas
+
+**Linguagens**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+</p>
+
+**Backend e frontend**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+</p>
+
+**Bancos de dados e dados**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="40" alt="dbt"/>
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+</p>
+
+**Infra, automação e ferramentas**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/railway/9B59B6" height="40" alt="Railway"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 
-
-### 📫 Where to find me
+**Jogos**
 
 <p>
-  <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:henrique.a.campos@ufv.br">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Email"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/>
 </p>
-<img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
+
+### 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alveshenriique&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveshenriique&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alveshenriique&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
+</p>
