@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escritórios de advocacia em produção com clientes reais, do banco de dados ao frontend. Também construí e publiquei o [Atlas da Lavoura](https://atlasdalavoura.com.br), produto de dados de ponta a ponta sobre a produção agrícola brasileira, da coleta dos dados públicos ao site. Formando em Ciência da Computação pela UFV (dezembro de 2026), passei por iniciação científica no UFV Virtual Labs (React, TypeScript, NestJS), automação de processos com n8n e SQL no Grupo Agro, e pesquisa em processamento de linguagem natural, com artigo [publicado no WebMedia 2026](https://sol.sbc.org.br/index.php/webmedia/article/view/46080).
+Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escritórios de advocacia em produção com clientes reais, do banco de dados ao frontend. Também construí e publiquei o [Atlas da Lavoura](https://atlasdalavoura.com.br), produto de dados de ponta a ponta sobre a produção agrícola brasileira, da coleta de dados públicos ao site. Sou formando em Ciência da Computação pela UFV, com conclusão em dezembro de 2026. Atuei em iniciação científica no UFV Virtual Labs com React, TypeScript e NestJS, em automação de processos com n8n e SQL no Grupo Agro, e em pesquisa de processamento de linguagem natural, com artigo [publicado no WebMedia 2026](https://sol.sbc.org.br/index.php/webmedia/article/view/46080).
 
 ## Projetos
 
@@ -59,7 +59,7 @@ Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="36" alt="dbt"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/dbt.svg" height="36" alt="dbt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud (BigQuery)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36" alt="Jupyter"/>
