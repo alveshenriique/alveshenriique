@@ -4,23 +4,24 @@
 <p align="center">Ciência da Computação @UFV · Pará de Minas, MG</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrique-alves-5237862ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/alveshenriique/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:henrique.a.campos@ufv.br"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://lawfy.app.br"><img src="https://img.shields.io/badge/Lawfy-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Lawfy"/></a>
+  <a href="https://atlasdalavoura.com.br"><img src="https://img.shields.io/badge/Atlas_da_Lavoura-895819?style=flat-square&logo=googlechrome&logoColor=white" alt="Atlas da Lavoura"/></a>
 </p>
 
 ---
 
 ## Sobre
 
-Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escritórios de advocacia em produção com clientes reais, do banco de dados ao frontend. Formando em Ciência da Computação pela UFV (dezembro de 2026), passei por iniciação científica no UFV Virtual Labs (React, TypeScript, NestJS), automação de processos com n8n e SQL no Grupo Agro, e pesquisa em processamento de linguagem natural, com artigo [publicado no WebMedia 2026](https://sol.sbc.org.br/index.php/webmedia/article/view/46080). Hoje aprofundo engenharia de dados com um pipeline próprio de ponta a ponta.
+Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escritórios de advocacia em produção com clientes reais, do banco de dados ao frontend. Também construí e publiquei o [Atlas da Lavoura](https://atlasdalavoura.com.br), produto de dados de ponta a ponta sobre a produção agrícola brasileira, da coleta dos dados públicos ao site. Formando em Ciência da Computação pela UFV (dezembro de 2026), passei por iniciação científica no UFV Virtual Labs (React, TypeScript, NestJS), automação de processos com n8n e SQL no Grupo Agro, e pesquisa em processamento de linguagem natural, com artigo [publicado no WebMedia 2026](https://sol.sbc.org.br/index.php/webmedia/article/view/46080).
 
 ## Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **[Lawfy](https://lawfy.app.br)** | SaaS de gestão para escritórios de advocacia, em produção. Autenticação JWT, permissões granulares, RLS no banco e integração OAuth 2.0 com o Google Calendar. | Node.js, Express, TypeScript, React, PostgreSQL, Supabase |
-| **[Agro Observatory](https://github.com/alveshenriique/agro-observatory)** | Pipeline de dados sobre a produção agrícola brasileira: 94 milhões de registros de clima diário cruzados com a produção municipal do IBGE desde 1974, modelo dimensional em dbt, mais de 180 testes de dados e validação contra os totais oficiais. [Documentação dos modelos](https://alveshenriique.github.io/agro-observatory/) | Python, PostgreSQL, dbt, GitHub Actions |
+| **[Atlas da Lavoura](https://atlasdalavoura.com.br)** | Produto de dados sobre a produção agrícola brasileira: 94 milhões de registros de clima diário cruzados com a produção municipal do IBGE desde 1974, modelo dimensional em dbt com mais de 180 testes de dados e validação contra os totais oficiais, e site com mapa interativo dos 5.571 municípios. [Código](https://github.com/alveshenriique/atlas-da-lavoura) · [Documentação dos modelos](https://docs.atlasdalavoura.com.br) | Python, dbt, PostgreSQL, BigQuery, TypeScript, React, Astro, D3, Cloudflare |
 | **[Estudo NLP multiplataforma](https://sol.sbc.org.br/index.php/webmedia/article/view/46080)** | Artigo no WebMedia 2026: cerca de 33 mil comentários de YouTube, TikTok e Instagram, com análise de sentimento em português e modelagem de tópicos. | Python, BERTopic, pysentimiento |
 
 ## Tecnologias
@@ -46,6 +47,9 @@ Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="36" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="36" alt="D3"/>
 </p>
 
 **Bancos de dados e dados**
@@ -55,7 +59,8 @@ Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="36" alt="BigQuery"/>
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="36" alt="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud (BigQuery)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
@@ -68,10 +73,20 @@ Desenvolvo e mantenho o [Lawfy](https://lawfy.app.br), SaaS de gestão para escr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36" alt="Vercel"/>
   <img src="https://cdn.simpleicons.org/railway/9B59B6" height="36" alt="Railway"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="36" alt="n8n"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
+</p>
+
+**Testes**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="36" alt="Vitest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" alt="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="36" alt="pytest"/>
 </p>
 
 **Jogos**
